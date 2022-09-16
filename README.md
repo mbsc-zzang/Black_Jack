@@ -2,8 +2,8 @@
 
 ## 프로젝트
 ![Image Description](https://www.pinnacle.com/Cms_Data/Contents/Guest/Media/betting-articles/casino/Blackjack/article-how-to-play-blackjack-hero.jpg)
-- **누구나!**  쉽게 할 수 있는 블랙잭!
-- 이 프로젝트를 보고 누구나 블랙잭을 할 수있게 만들자
+- 블랙잭이 무엇인가를 알아보는 곳 입니다. 
+- Blanck_Jack.md 를 살펴보시면 블랙잭의 룰을 알 수 있습니다!
 
 ----
 ## 가이드 라인
@@ -11,4 +11,4 @@
 
 ----
 ## 지침서
-- [블랙잭 역](https://www.pinnacle.com/ko/betting-articles/casino/the-history-of-blackjack/4VFJVGWL3S9Q9M7J)
+- [블랙잭 역사](https://www.pinnacle.com/ko/betting-articles/casino/the-history-of-blackjack/4VFJVGWL3S9Q9M7J)
